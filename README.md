@@ -1,0 +1,2 @@
+# CSharpGameOfLife
+ Conway's Game of Life is a classic cellular automaton simulation in C# that models the evolution of a grid of cells based on simple rules. This program allows users to interact with and observe the emergence of patterns as cells live, die, and reproduce. Features include grid control, simulation speed adjustment, pattern editing, a pattern library, and a user-friendly interface. Dive into the world of cellular automata and explore intriguing emergent behaviors with this implementation.
