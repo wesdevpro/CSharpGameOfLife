@@ -20,12 +20,12 @@ namespace GameOfLifeApp
     /// </summary>
     public partial class MainWindow : Window
     {
-        Canvas canvas;
+        // Canvas canvas;
 
         public MainWindow()
         {
-            canvas = gameCanvas;
-            InitializeComponent();
+            // canvas = gameCanvas;
+            // InitializeComponent();
         }
 
         private void gameCanvas_Initialized(object sender, EventArgs e)
